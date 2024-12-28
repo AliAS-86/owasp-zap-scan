@@ -1,4 +1,6 @@
 brainstorming.txt
+volumes/zap/*
+volumes/juice-shop/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
